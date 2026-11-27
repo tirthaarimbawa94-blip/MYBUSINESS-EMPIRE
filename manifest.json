@@ -1,11 +1,18 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Business Empire Real Wealth",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Business Empire",
-  "start_url": "/MYBUSINESS-EMPIRE/index.html",
-  "theme_color": "#ffffff"
+  "description": "Aplikasi pencatatan kekayaan dan portofolio aset pribadi.",
+  "start_url": "/MYBUSINESS-EMPIRE/",
+  "scope": "/MYBUSINESS-EMPIRE/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
